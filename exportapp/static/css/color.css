@@ -1,0 +1,14 @@
+#nav{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    height: 12%;
+    display: flex;
+}
+
+#container{
+    display: flex;
+    height: 8%;
+}
+
+
